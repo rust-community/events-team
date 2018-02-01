@@ -1,0 +1,155 @@
+#rust-events
+[2018-01-30 12:33:47] → Joined channel #rust-events
+[2018-01-30 12:33:47] * bruford.mozilla.org set +o skade
+[2018-01-30 12:33:47] * Channel mode is +nt
+[2018-01-30 12:33:47] * Channel timestamp is 1517315627
+[2018-01-30 12:34:32] → killercup joined (pascal@moz-7mmk1f.com)
+[2018-01-30 12:34:51] — killercup clicks on every channel link
+[2018-01-30 12:54:27] <skade> killercup: CONGRATULATIONS, YOU ARE OUR FIRST CUSTOMER. YOU WON THE ORGANISATION OF RUST ANTARCTICA.
+[2018-01-30 12:54:44] <killercup> \o/
+[2018-01-30 12:55:07] <killercup> dress code: tuxedo
+[2018-01-30 12:55:43] → booyaa[ joined (booyaa@moz-7s9.atf.159.109.IP)
+[2018-01-30 12:56:20] <booyaa[> skade: is it okay to talk publically here about the trade fair you'll be attending?
+[2018-01-30 12:56:36] <skade> booyaa[: how public is public?
+[2018-01-30 12:56:47] <booyaa[> heh
+[2018-01-30 12:58:30] <booyaa[> one of the london meetupers suggested i look at risc-v (doing a series of talks about writing an os). had a look last night, and i think some people involved with risc-v will be attending the Embedded World Conference.
+[2018-01-30 12:59:31] <booyaa[> i know someone's recently contributed a rust target for risc-v too...
+[2018-01-30 13:34:50] → theJPster joined (jgp@moz-hofjsh.cambridgeconsultants.com)
+[2018-01-30 14:31:05] <skade> booyaa[: please get them in touch :)
+[2018-01-30 14:33:05] <booyaa[> ah sorry, poorly phrase. i just knew someone had done the work... don't know the person as per se. https://abopen.com/news/rust-comes-risc-v/
+[2018-01-30 14:34:39] <booyaa[> interesting looks like he did it using another thing risc-v llvm tree developed by lowRISC who have some raspberrypi people on their team
+[2018-01-30 15:49:46] → bruceadams joined (sid15869@moz-v8a3ln.hathersage.irccloud.com)
+[2018-01-31 09:06:08] <booyaa[> this might be handy for people doing rust related talks: https://www.digitalocean.com/droplets-for-demos/
+[2018-01-31 14:39:50] <skade> booyaa[: intersting, shall we start a little collection of these things?
+[2018-01-31 14:45:03] <booyaa[> +1
+[2018-01-31 15:51:42] → badboy joined (badboy_@moz-r416mt.rediger.net)
+[2018-01-31 15:51:50] <badboy> o/ *adding this to autojoin now*
+[2018-01-31 15:53:50] → sebasmagri joined (smagmatrix@moz-522p1u.matrix.org)
+[2018-01-31 15:54:03] <sebasmagri> Hell-o!
+[2018-01-31 16:51:30] <badboy> so are we doing that meeting in 10minutes?
+[2018-01-31 16:53:44] <sebasmagri> badboy: only you and I confirmed... I'll be around anyway
+[2018-01-31 16:58:30] <skade> hello
+[2018-01-31 16:58:35] <skade> badboy sebasmagri Yes :)
+[2018-01-31 16:58:56] <skade> sorry for the screeching fashion :)
+[2018-01-31 16:59:40] <sebasmagri> no worries
+[2018-01-31 17:00:43] <skade> so, here's the today's agenda https://github.com/rust-community/events-team/issues/2
+[2018-01-31 17:01:06] <skade> welcome to the first ever events team meeting \o/
+[2018-01-31 17:01:14] <badboy> "flaki-compatible" - skade does the hard parts first.
+[2018-01-31 17:01:15] <badboy> heho!
+[2018-01-31 17:01:26] <skade> yeah, I guess, if we split, we'll split right away
+[2018-01-31 17:01:48] <sebasmagri> heheh, WooHoo!
+[2018-01-31 17:02:26] <skade> so, the first issue is: we need to find a meeting spot that is a) accessible, b) works with the one person I got into this team: @flaki
+[2018-01-31 17:02:33] <skade> and flaki doesn't do IRC
+[2018-01-31 17:02:48] <skade> any opinions there?
+[2018-01-31 17:03:32] <badboy> puuuh
+[2018-01-31 17:04:06] <sebasmagri> What works for him?
+[2018-01-31 17:04:32] <skade> Usually Telegram and Wire
+[2018-01-31 17:05:09] <sebasmagri> I don't use Wire (yet), but either of those would work for me
+[2018-01-31 17:05:30] <skade> @badboy, how about you?
+[2018-01-31 17:05:41] <badboy> I have both as well, so I can use them
+[2018-01-31 17:06:15] <skade> Okay, let's try that. I'll set up a group. Would a bridge to here make sense, like #mozilla has it?
+[2018-01-31 17:06:39] <sebasmagri> I think so
+[2018-01-31 17:06:49] <sebasmagri> but if it's too much we can just stick to one
+[2018-01-31 17:06:49] <badboy> if it's easy to operate sure
+[2018-01-31 17:07:30] <skade> okay, let's research that
+[2018-01-31 17:07:55] <badboy> ok
+[2018-01-31 17:08:06] <skade> next up, draft for the events team setup: https://docs.google.com/document/d/1jH2Cz493ILQ79mTR1O8Msgf4v7UmaYp5Mc0UjTNmQ68/edit#
+[2018-01-31 17:09:18] <badboy> "Events of all for and sizes:" -> Events for all and of all sizes
+[2018-01-31 17:09:19] <skade> I'm not sure if there's anything I missed there.
+[2018-01-31 17:09:26] <badboy> oh wait, I can edit it directly
+[2018-01-31 17:09:29] <skade> :D
+[2018-01-31 17:09:56] <badboy> > Also, many of these issues are _simple_ to solve, but _hard_ to come up with.
+[2018-01-31 17:10:07] <badboy> it's a bit unclear to me what "issues" are meant here
+[2018-01-31 17:10:15] <sebasmagri> train the trainer style events as a separate metric?
+[2018-01-31 17:10:19] <badboy> does this reference the paragraph above?
+[2018-01-31 17:10:55] <skade> yes
+[2018-01-31 17:11:04] <skade> eh. badboy : yes
+[2018-01-31 17:11:27] <badboy> ok
+[2018-01-31 17:11:33] <skade> sebasmagri: I'm not sure, but tracking availability of trainers could be worthwhile
+[2018-01-31 17:12:29] <badboy> otherwise I'm fine with going with that 
+[2018-01-31 17:12:41] <skade> okay, cool
+[2018-01-31 17:12:58] <sebasmagri> yeah, like a database of mentors/trainers... I believe Jonathan did some work on that right?
+[2018-01-31 17:12:59] <badboy> and once we identify important not-named-yet actions or objectives we can add them as they come up
+[2018-01-31 17:13:12] <sebasmagri> it LGTM overall
+[2018-01-31 17:13:17] <skade> sebasmagri: yes, database of speakers we could add right together
+[2018-01-31 17:13:17] <badboy> sebasmagri: we're collecting a list of past rust conference speakers
+[2018-01-31 17:13:45] <skade> then... announcement. how shall we do that? Writing something probably falls on me? :D
+[2018-01-31 17:14:41] <skade> shall we do a separate announcement or just try to provide something for the coming communication about the community team?
+[2018-01-31 17:15:12] <sebasmagri> I'm not clear of how to do that, should it be announced just con community@r-l.o?
+[2018-01-31 17:15:37] <badboy> I'm not sure what the current status is regarding the teams. If we do a big "community team branches into subteams" post anyway, we can tie in
+[2018-01-31 17:15:42] <sebasmagri> just *on
+[2018-01-31 17:15:58] <skade> okay, I'll set up another draft and clarify that with ashley
+[2018-01-31 17:16:03] <badboy> ok cool
+[2018-01-31 17:16:10] <badboy> I'd be happy to go over it next week
+[2018-01-31 17:16:27] <sebasmagri> me too
+[2018-01-31 17:16:30] <skade> then, I've got two final things: I'm going to meet with Mozilla devrel and Open Innovation next week
+[2018-01-31 17:16:42] <badboy> :O
+[2018-01-31 17:17:13] <skade> yeah, aaron got in touch with them
+[2018-01-31 17:17:21] <badboy> ok cool
+[2018-01-31 17:17:35] <sebasmagri> cool, what do you think of letting Mozilla and the Reps infrastructure know that we can work together in their "Activate" campaigns?
+[2018-01-31 17:17:35] <skade> so, I'm going to try to get better communication up with them, let's see how that goes
+[2018-01-31 17:18:09] <badboy> that would be good (and a first! *cough*)
+[2018-01-31 17:18:09] <sebasmagri> I've had two cases here of Rust "Activate" events that I didn't know of and we could have helped
+[2018-01-31 17:18:14] <skade> sebasmagri: activate will be a topic of the discussion, it always felt odd that Mozilla kind of did their own thing there
+[2018-01-31 17:18:28] <skade> yes, that will also be a topic of the discussion :D
+[2018-01-31 17:18:32] <sebasmagri> exactly
+[2018-01-31 17:18:46] <sebasmagri> awesome!
+[2018-01-31 17:19:03] <skade> thanks for voicing it, because we have no activate events here, so I had no concrete examples :)
+[2018-01-31 17:19:19] <sebasmagri> yw!
+[2018-01-31 17:19:57] <skade> then: team perspectives. we need more people from different places and backgrounds. If you know someone who would love to help, please approach them.
+[2018-01-31 17:20:16] <skade> also, I'll try to encourage some mozilla people to be part proper, I think that will help things
+[2018-01-31 17:20:23] <sebasmagri> on my side, a group of devs here in Mexico is motivated to do a barcamp in March, gathering people from other cities than Mexico City
+[2018-01-31 17:20:36] <sebasmagri> We should get India and Brazil people involved
+[2018-01-31 17:20:37] <badboy> skade: Good idea. I'll see who I meet in brussels this weekend
+[2018-01-31 17:20:45] <sebasmagri> they are doing an awesome work
+[2018-01-31 17:20:58] <badboy> I can talk to Brazil
+[2018-01-31 17:21:17] <skade> sebasmagri: definitely
+[2018-01-31 17:21:22] <sebasmagri> oh, and Nairobi! They're also working hard
+[2018-01-31 17:21:31] <skade> sebasmagri: that's good call
+[2018-01-31 17:21:53] <sebasmagri> I'd really like to have more Asia in the team 🙂 but I don't know people there
+[2018-01-31 17:22:31] <skade> hoverbear just started working for an asian company
+[2018-01-31 17:22:53] <skade> anyone taking notes?
+[2018-01-31 17:22:55] <skade> :D
+[2018-01-31 17:22:59] <sebasmagri> that's our contact then!
+[2018-01-31 17:23:11] <skade> I'll ask him over lunch at monday
+[2018-01-31 17:23:15] <badboy> I do have the logs, I can later scribble them down as notes
+[2018-01-31 17:23:22] <badboy> (just need to head out after we finish here first)
+[2018-01-31 17:23:23] <booyaa[> does anyone mind if we bring a log bot in?
+[2018-01-31 17:23:50] <sebasmagri> ok for me
+[2018-01-31 17:23:52] <skade> booyaa[: not at all
+[2018-01-31 17:24:06] <booyaa[> kk
+[2018-01-31 17:25:15] <skade> okay, cool. any more questions?
+[2018-01-31 17:25:35] <badboy> yeah, what song do we use instead of final countdown?
+[2018-01-31 17:25:56] <sebasmagri> hahahah
+[2018-01-31 17:26:29] <skade> good question...
+[2018-01-31 17:26:46] <badboy> we can obviously come up with ideas prior to the next meeting
+[2018-01-31 17:26:55] <badboy> (which we then start 30minutes early to listen through all of them)
+[2018-01-31 17:27:23] <sebasmagri> +1
+[2018-01-31 17:28:04] <skade> +1
+[2018-01-31 17:28:11] <skade> I'll set up the telegram group
+[2018-01-31 17:30:36] <sebasmagri> good!
+[2018-01-31 17:32:51] <booyaa[> +1
+[2018-01-31 17:39:34] <booyaa[> skade: can i get +o
+[2018-01-31 17:39:43] <booyaa[> please
+[2018-01-31 17:39:54] * skade set +o booyaa[
+[2018-01-31 17:39:58] * *** booyaa[ invited logbot into the channel
+[2018-01-31 17:39:58] → logbot joined (logbot@moz-bel.1kg.227.165.IP)
+[2018-01-31 17:39:59] <logbot> channel logging requested by booyaa[: https://mozilla.logbot.info/rust-events
+[2018-01-31 17:40:11] * skade set +o badboy
+[2018-01-31 17:41:32] * booyaa[ set the topic to events sub-team | repo: https://github.com/rust-community/events-team | logs: https://mozilla.logbot.info/rust-events
+[2018-01-31 17:42:57] <skade> sebasmagri: badboy booyaa[ https://t.me/joinchat/EkKINhHCgZ9llzvPidOssA
+[2018-01-31 17:43:07] <skade> (and anyone else who wants, group is open)
+[2018-01-31 17:53:09] <sebasmagri> +1
+[2018-02-01 04:37:56] → flaki joined (sid26072@moz-6b87uk.ealing.irccloud.com)
+[2018-02-01 12:41:02] → johannh joined (sid780@moz-0ak6nj.0j4i.jtu0.0101.2620.IP)
+[2018-02-01 12:41:19] <johannh> hello!
+[2018-02-01 12:41:54] <badboy> hi johannh 
+[2018-02-01 12:42:16] <johannh> did you talk about anything of note yesterday?
+[2018-02-01 12:44:19] <badboy> not too much
+[2018-02-01 12:44:31] <badboy> we discussed the team document outlining what this team is about
+[2018-02-01 12:44:39] <badboy> and potential meeting times/places
+[2018-02-01 12:45:10] <badboy> please leave any additional comments you might have on the issue
+[2018-02-01 12:45:19] <badboy> regarding the document
+[2018-02-01 13:43:36] <skade> johannh: als, there's a telegram group, now
+[2018-02-01 13:43:42] <skade> johannh: https://t.me/joinchat/EkKINhHCgZ9llzvPidOssA
+[2018-02-01 13:46:09] <johannh> skade:  badboy: thanks!
