@@ -36,7 +36,7 @@ You can promote your event by advertising it on Twitter, Reddit and other channe
 *[ ] I'd like to have stickers
 *[ ] I'd like to have swag and stickers
 
-If you're interested in obtaining stickers and/or swag, please send a short email to community-swag@rust-lang.org, providing
+If you're interested in obtaining stickers and/or swag, please send a short email to [the community team](community@rust-lang.org?subject=[SWAG]), providing
 
 - Your physical mail address and phone number
 - The projected number of attendees for your event
