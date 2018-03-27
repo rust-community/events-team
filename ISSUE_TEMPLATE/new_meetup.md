@@ -18,7 +18,7 @@ Links: *add links, e.g. a meetup page, here*
 
 ## When
 
-*Insert the date here. Please at the timezone*
+*Insert time and date here.*
 
 *[ ] I'd like the event to be on the public calendar
 *[ ] It's a repeating event, I would like to have access to the calender to do things on my own
