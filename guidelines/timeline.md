@@ -15,6 +15,7 @@ Take at least 9-12 months.
   - Catering
   - Accomodation spotting
   - Website
+  - Social media
 * Decide on target group
   - local
   - non-local
@@ -115,6 +116,7 @@ you can include or have to cut.
 ## 2 weeks before
 
 * Assure all speakers can attend
+* Workweek for delayed issues
 
 ## 5 days before
 
