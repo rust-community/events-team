@@ -15,7 +15,7 @@ Alternatively, you can also email us at [community@rust-lang.org](mailto:communi
 
 ## Team
 
-- [@badboy](/badboy)
-- [@skade](/skade)
-- [@flaki](/flaki)
-- [@celaus](/celaus)
+- [@badboy](https://github.com/badboy)
+- [@skade](https://github.com/skade)
+- [@flaki](https://github.com/flaki)
+- [@celaus](https://github.com/celaus)
