@@ -2,9 +2,13 @@
 
 This is the repository for any planning of the [Rust events team](https://github.com/rust-community/team#%EF%B8%8F-events). If you are running an event we would love to offer some tips and contacts along with our experience to make it as smooth as possible.
 
-## Material
+## 🚑 Support 
 
-- **Meetups:** Open an issue using [this template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md) ❤️
+- **Help me with Meetups:** Open an issue using [this template](https://github.com/rust-community/events-team/issues/new?template=new_meetup.md) ❤️
+
+## 💡 Guides
+
+- **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/standards/MEETUP_TALKS.md)
 
 
 # 🚀 Helping out
