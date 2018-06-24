@@ -4,6 +4,8 @@ This assumes roughly 200 people conference, running over 2 days (weekend or duri
 
 Take at least 9-12 months.
 
+_Note: The guidelines below are rough estimates and can vary depending on the location of the event and other factors. We're working on updated guidelines._
+
 ## Immediately: Get setup
 
 * Email setup
@@ -125,4 +127,3 @@ you can include or have to cut.
 ## 4 days before
 
 * Badges go to printer
-*
