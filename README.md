@@ -13,7 +13,7 @@ This is the repository for any planning of the [Rust events team](https://github
 
 # 🚀 Helping out
 
-The Rust events team meets every other week on [Telegram](https://t.me/joinchat/EkKINhHCgZ9llzvPidOssA) at 5 pm UTC, where we discuss any [open issues](https://github.com/rust-community/events/issues). We are happy to answer any questions, so feel free to comment or even resolve any issues in this repository 😁.  
+The Rust events team meets every other week on [Telegram](https://t.me/joinchat/EkKINhHCgZ9llzvPidOssA) at 6pm UTC, where we discuss any [open issues](https://github.com/rust-community/events/issues). We are happy to answer any questions, so feel free to comment or even resolve any issues in this repository 😁.  
 
 Alternatively, you can also email us at [community@rust-lang.org](mailto:community@rust-lang.org).
 
