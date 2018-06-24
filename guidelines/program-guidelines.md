@@ -57,10 +57,15 @@ We are all developers for the most part, and are aware of how computers are terr
 Checking on equipment during breaks (coffee, lunch, etc) is a good way to make sure the equipment is still functional, or a good time for repairs.
 
 ## Q&A
-We don’t recommend opening the floor to Q&A. We do recommend:
 
-  - Dedicated room/Speaker Corners
-  - Keep it short, speakers want to go to talks too!
+You should decide if and how you will have Q&A after the talks.
+There are multiple formats you can choose:
+
+- Don't have a Q&A after the talk, instead ask attendees to approach the speaker in the breaks
+- Have a microphone for the audience for immediate questions afterwards
+    - The MC should be around and stop people without an actual question
+- A moderated Q&A, where questions have to be submitted to the MC, who will ask them
+    - Collect from Twitter, IRC channel, etc. or dedicated website
 
 ## Talk Skill Level
 
