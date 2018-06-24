@@ -64,8 +64,10 @@ There are multiple formats you can choose:
 - Don't have a Q&A after the talk, instead ask attendees to approach the speaker in the breaks
 - Have a microphone for the audience for immediate questions afterwards
     - The MC should be around and stop people without an actual question
+    - If no audience microphone is available the speaker/MC needs to repeat the question (to capture it for recordings/livestreams) 
 - A moderated Q&A, where questions have to be submitted to the MC, who will ask them
     - Collect from Twitter, IRC channel, etc. or dedicated website
+    - If the event is livestreamed a "no presence required" way of asking questions is appreciated
 
 ## Talk Skill Level
 
