@@ -8,7 +8,7 @@ This is the repository for any planning of the [Rust events team](https://github
 
 ## 💡 Guides
 
-- **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/standards/MEETUP_TALKS.md)
+- **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/guides/MEETUP_TALKS.md)
 
 
 # 🚀 Helping out
