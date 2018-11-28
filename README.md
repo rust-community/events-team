@@ -17,6 +17,7 @@ We're also open for contribution of tutorials, guides, and similar.
 
 Our favourite resources around events.
 
+- [**Conference Katamari**](http://conferencekatamari.info/): The rule of six: how to go out after an event.
 - [**Safety First Portland**](http://safetyfirstpdx.org/resources/): A great resource around incident handling and safety at events.
 
 # 🚀 Helping out
