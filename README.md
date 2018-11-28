@@ -24,3 +24,5 @@ Alternatively, you can also email us at [community@rust-lang.org](mailto:communi
 - [@flaki](https://github.com/flaki)
 - [@celaus](https://github.com/celaus)
 - [@mattgathu](https://github.com/mattgathu)
+- [@Manishearth](https://github.com/Manishearth)
+- [@mgattozzi](https://github.com/mgattozzi)
