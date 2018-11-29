@@ -28,7 +28,7 @@ You can't have a budget without knowing what you want. The simple truth of budge
 
 ## Categorizing
 
-You now need to categorize all of these things on two dimensions. First of all:
+You now need to categorize all of these wants on two dimensions. First of all:
 
 * Necessary
     * If everything goes wrong, this is our baseline that we are still comfortable running
