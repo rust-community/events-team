@@ -32,7 +32,7 @@ You now need to categorize all of these wants on two dimensions. First of all:
 
 * Necessary
     * If everything goes wrong, this is our baseline that we are still comfortable running
-    * Necessity have no priorities, you can't go without them
+    * Necessities have no priorities, you can't go without them
 * Wanted
     * If you have the cash, all this things get unlocked
     * Prioritze wanted things
