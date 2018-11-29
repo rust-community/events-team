@@ -24,7 +24,7 @@ Don't try to rely on others peoples companies (it messes up _their_ budgeting), 
 
 ## Tell me what you want, what you really, really want
 
-You can't have a budget without knowing what you want. The simple truth of budgeting is: things you haven't budgeted for will probably not appear in the final conference. Having them budgeted for probably makes them. So, get out the sharpies and the post its and get creative. Write down _everything_ that springs your mind, even you moonshots. Diversity, inclusion, accessibility, party plans, gimmicks, Speaker pay... yes, food and drinks belong on that list, also some money in your pocket while you run the conference. Oh, and don't forget the venue, you might want to have one. Every possible feature of a conference should be on your table.
+You can't have a budget without knowing what you want. The simple truth of budgeting is: things you haven't budgeted for will probably not appear in the final conference. Having them budgeted for probably makes them. So, get out the sharpies and the post its and get creative. Write down _everything_ that springs your mind, even your moonshots. Diversity, inclusion, accessibility, party plans, gimmicks, Speaker pay... yes, food and drinks belong on that list, also some money in your pocket while you run the conference. Oh, and don't forget the venue, you might want to have one. Every possible feature of a conference should be on this list.
 
 ## Categorizing
 
