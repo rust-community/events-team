@@ -16,7 +16,9 @@ Seriously, don't feel guilty about not knowing how to handle money in this conte
 
 ## Legal entity
 
-Try to create a legal entity which gives you limited liability. It's best to have one just for the conference. That makes bookkeeping and understanding what's going on on your bank account easy.
+Try to create a legal entity which gives you limited liability. This can be a company or a form of association. It's best to have one just for the conference. That makes bookkeeping and understanding what's going on on your bank account easy.
+
+Check conferences in your area for their legal status.
 
 Don't try to rely on others peoples companies (it messes up _their_ budgeting), only do this as a last resort.
 
