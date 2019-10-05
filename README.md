@@ -23,6 +23,6 @@ Alternatively, you can also email us at [community@rust-lang.org](mailto:communi
 - [@skade](https://github.com/skade)
 - [@flaki](https://github.com/flaki)
 - [@celaus](https://github.com/celaus)
+- [@JohnTitor](https://github.com/JohnTitor)
 - [@mattgathu](https://github.com/mattgathu)
 - [@Manishearth](https://github.com/Manishearth)
-- [@mgattozzi](https://github.com/mgattozzi)
