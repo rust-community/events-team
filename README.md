@@ -18,6 +18,9 @@ Alternatively, you can also email us at [community@rust-lang.org](mailto:communi
 
 ## Team
 
+Also check out the events team section
+[here](https://www.rust-lang.org/governance/teams/community) for the latest member list.
+
 - [@badboy](https://github.com/badboy)
 - [@skade](https://github.com/skade)
 - [@flaki](https://github.com/flaki)
