@@ -10,14 +10,16 @@ This is the repository for any planning of the [Rust events team](https://github
 
 - **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/standards/MEETUP_TALKS.md)
 
-
 # 🚀 Helping out
 
-The Rust events team meets every other week on [Telegram](https://t.me/joinchat/EkKINhHCgZ9llzvPidOssA) at [6 pm UTC](https://www.google.de/search?q=6pm+utc), where we discuss any [open issues](https://github.com/rust-community/events/issues). We are happy to answer any questions, so feel free to comment or even resolve any issues in this repository 😁.  
+We are happy to answer any questions, so feel free to comment or even resolve any issues in this repository 😁.  
 
 Alternatively, you can also email us at [community@rust-lang.org](mailto:community@rust-lang.org).
 
 ## Team
+
+Also check out the events team section
+[here](https://www.rust-lang.org/governance/teams/community) for the latest member list.
 
 - [@badboy](https://github.com/badboy)
 - [@skade](https://github.com/skade)

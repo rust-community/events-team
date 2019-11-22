@@ -15,7 +15,7 @@ _Note: The guidelines below are rough estimates and can vary depending on the lo
   - Meetings
   - Venue spotting
   - Catering
-  - Accomodation spotting
+  - Accommodation spotting
   - Website
   - Social media
 * Decide on target group
