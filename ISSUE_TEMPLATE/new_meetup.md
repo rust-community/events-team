@@ -33,15 +33,6 @@ You can promote your event by advertising it on Twitter, Reddit and other channe
 
 * [ ] I need additional help promoting my event
 
-* [ ] I'd like to have swag (e.g. stickers)
-
-If you're interested in obtaining stickers and/or swag, please send a short email to [the community team](mailto:community@rust-lang.org?subject=[SWAG]), providing
-
-- Your physical mail address and phone number
-- The projected number of attendees for your event
-- How many events you're planning to run in the future
-- Optionally, if you're interested in a certain type of swag for specific reasons (e.g. you're running a T-Shirt give away)
-
 ## CoC
 
 The Rust project uses a [Code of Conduct](https://www.rust-lang.org/en-US/conduct.html) and we generally recommend you to as well. We also give advice on motivations and which one could be fitting for your project.
