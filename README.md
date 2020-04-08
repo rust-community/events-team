@@ -20,7 +20,7 @@ Our favourite resources around events.
 - [**OpenTechSchool Meetup Guide**](http://www.opentechschool.org/handbooks/workshops/organisers-schedule.html): A great guide on how to set up "Hack & Learn" style meetups
 - [**OpenTechSchool Coaching Guide**](http://opentechschool.github.io/slides/presentations/coaching/): A great resource on what to do when teaching people.
 - [**rampup.me**](https://rampup.me): Information site on how to run accessible events.
-- [**Conference Katamari**](http://conferencekatamari.info/): The rule of six: how to go out after an event.
+- [**Conference Katamari**](https://conferencekatamari.info/): The rule of six: how to go out after an event.
 - [**Safety First Portland**](http://safetyfirstpdx.org/resources/): A great resource around incident handling and safety at events.
 
 # 🚀 Helping out
