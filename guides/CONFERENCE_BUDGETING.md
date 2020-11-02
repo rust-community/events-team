@@ -64,7 +64,7 @@ If you have blanks, e.g. you don't know what a ticket provider charges, what ven
 
 ## Tickets
 
-Ticket sale is an art, finding their price is not. There's a strict rule: no subsidised tickets. Don't sell cheap tickets in the hope of finding a sponsor to fill gaps. Why? Easy: this means that the more tickets you sell, the more sponsors you need to find. That means that every ticket sale is stressful to you, as you need to find more sponsors. For example, if you sell tickets at 100$, but you spend 110$ per person for food, every 10 ticket sales actually _cost_ you 100$.
+Ticket sale is an art, finding their price is not. There's a strict rule: no subsidised tickets. Don't sell cheap tickets in the hope of finding a sponsor to fill gaps. Why? Easy: this means that the more tickets you sell, the more sponsors you need to find. That means that every ticket sale is stressful to you, as you need to find more sponsors. For example, if you sell tickets at 100$, but you spend 110$ per person for food, every 10 ticket sale actually _cost_ you 10$.
 
 Given the sheet you built above, find a price that makes you cover your fixed cost soon. Be very conservative. For a new conference, I usually aim for 50 people. Don't feel bad about charging people, most can pay it. Make sure you make a sizeable margin per ticket. If you feel like the ticket price is too high for the crowd you want to attend, get back to the drawing board and check if everything you marked as necessary really is.
 
