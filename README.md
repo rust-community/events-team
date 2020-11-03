@@ -11,7 +11,7 @@ We're also open for contribution of tutorials, guides, and similar.
 
 ## 💡 Guides
 
-- **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/standards/MEETUP_TALKS.md)
+- **Meetup Checklist:** [Here](https://github.com/rust-community/events-team/blob/master/guides/MEETUP_TALKS.md)
 
 ## 📚 Resources
 
